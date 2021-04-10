@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/github/license/Devifish/sport-editor)](https://github.com/Devifish/sport-editor)
 
 > 通过华米运动的 API 提交运动步数 😒<br/>
-> 可实现同步运动步数至热门平台，如微信、支付宝等
+> 可实现同步运动步数至热门平台，如微信、支付宝等  
 
 ## 实现功能
 
